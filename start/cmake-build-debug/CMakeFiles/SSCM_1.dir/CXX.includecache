@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/Individual.h
+iostream
+-
+string
+-
+
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/Source.cpp
+Windows.h
+-
+time.h
+-
+sys/wait.h
+-
+sys/types.h
+-
+unistd.h
+-
+menu.h
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/menu.h
+Individual.h
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/Individual.h
+iostream
+-
+string
+-
+
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/menu.h
+iostream
+-
+

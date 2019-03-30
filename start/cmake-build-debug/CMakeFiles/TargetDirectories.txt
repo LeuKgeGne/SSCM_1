@@ -1,0 +1,3 @@
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/cmake-build-debug/CMakeFiles/SSCM_1.dir
+/home/eugene/Документы/BSUIR/SSCM/SSCM_1/start/cmake-build-debug/CMakeFiles/edit_cache.dir
